@@ -1,6 +1,5 @@
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🧠 Text Classification System (TensorFlow)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 Text Classification using Deep Learning
 An end-to-end NLP classification system built with TensorFlow, designed to transform unstructured text into accurate, scalable predictions using neural networks.
 
